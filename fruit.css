@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.pr {
+    position: relative;
+}
+
+.s1 {
+    height: 100vh;
+    width: 100%;
+}
+
+.s2 {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    background-image: url("img/wp2028333.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section{
+    padding: 0 !important;
+}
+
+.content {
+    background-color: transparent !important;
+}
